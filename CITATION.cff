@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata from this file."
+title: "B-COMPASS-model"
+abstract: "Reference Flask API exposing the BEAMER-COmputational Model for Patient Adherence and Support Solutions (B-COMPASS). The service classifies patients into behavioural segments based on psychological and demographic inputs, combining rule based logic with a pre trained machine learning model."
+version: "1.0.0"
+date-released: "2026-03-31"
+license: "CC-BY-NC-ND-4.0"
+repository-code: "https://github.com/BEAMERproject/B-COMPASS-model"
+keywords:
+  - patient adherence
+  - behavioural modelling
+  - health analytics
+authors:
+  - family-names: Lupiáñez-Villanueva
+    given-names: Francisco
+    affiliation:
+      - "PredictBy Research and Consulting, 08013 Barcelona, Spain"
+      - "Department of Information and Communication Science, Universitat Oberta de Catalunya, 08018 Barcelona, Spain"
+    email: flupianez@predictby.com
+    orcid: https://orcid.org/0000-0001-5361-7678
+  - family-names: Fico
+    given-names: Giuseppe
+    affiliation: "Life Supporting Technologies Research Group, Universidad Politécnica de Madrid, Avda Complutense 30, 28040 Madrid, Spain"
+    orcid: https://orcid.org/0000-0003-1551-4613
+  - family-names: Everitt
+    given-names: Claire
+    affiliation: "Pfizer UK, Cambridge, United Kingdom"
+  - family-names: Ortega-Izquierdo
+    given-names: Rodrigo
+    affiliation: "PredictBy Research and Consulting, 08013 Barcelona, Spain"
+    orcid: https://orcid.org/0009-0001-4095-5026
+  - family-names: Adami Peracchia
+    given-names: Dante
+    orcid: https://orcid.org/0009-0009-2136-0164
+    affiliation: "PredictBy Research and Consulting, 08013 Barcelona, Spain"
+  - family-names: Roca-Umbert
+    given-names: Ana
+    affiliation: "PredictBy Research and Consulting, 08013 Barcelona, Spain"
+    orcid: https://orcid.org/0000-0003-0181-8720
+  - family-names: Merino-Barbancho
+    given-names: Beatriz
+    affiliation: "Life Supporting Technologies Research Group, Universidad Politécnica de Madrid, Avda Complutense 30, 28040 Madrid, Spain"
+    orcid: https://orcid.org/0000-0001-5070-4178
+  - family-names: Rujas
+    given-names: Miguel
+    affiliation: "Life Supporting Technologies Research Group, Universidad Politécnica de Madrid, Avda Complutense 30, 28040 Madrid, Spain"
+    orcid: https://orcid.org/0009-0005-8198-3356
+  - family-names: Gómez del Moral Herranz
+    given-names: Rodrigo Martín
+    affiliation: "Life Supporting Technologies Research Group, Universidad Politécnica de Madrid, Avda Complutense 30, 28040 Madrid, Spain"
+    orcid: https://orcid.org/0009-0007-7614-0914
+  - name: BEAMER Consortium
