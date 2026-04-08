@@ -13,9 +13,7 @@ keywords:
 authors:
   - family-names: Lupiáñez-Villanueva
     given-names: Francisco
-    affiliation:
-      - "PredictBy Research and Consulting, 08013 Barcelona, Spain"
-      - "Department of Information and Communication Science, Universitat Oberta de Catalunya, 08018 Barcelona, Spain"
+    affiliation: "PredictBy Research and Consulting, 08013 Barcelona, Spain; Department of Information and Communication Science, Universitat Oberta de Catalunya, 08018 Barcelona, Spain"
     email: flupianez@predictby.com
     orcid: https://orcid.org/0000-0001-5361-7678
   - family-names: Fico
