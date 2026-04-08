@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software in your research, please cite it using the metadata from this file."
+type: software
 title: "B-COMPASS-model"
 abstract: "Reference Flask API exposing the BEAMER-COmputational Model for Patient Adherence and Support Solutions (B-COMPASS). The service classifies patients into behavioural segments based on psychological and demographic inputs, combining rule based logic with a pre trained machine learning model."
 version: "1.0.0"
@@ -48,3 +49,4 @@ authors:
     affiliation: "Life Supporting Technologies Research Group, Universidad Politécnica de Madrid, Avda Complutense 30, 28040 Madrid, Spain"
     orcid: https://orcid.org/0009-0007-7614-0914
   - name: BEAMER Consortium
+    alias: BEAMER Consortium
